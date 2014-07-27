@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://thien-truong.github.io/sitemap.xml 
+Sitemap: http://allthingsThien.com/sitemap.xml 
