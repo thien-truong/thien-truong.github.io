@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Scribbles]]></title>
-  <link href="http://allthingsThien.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Visa | Scribbles]]></title>
+  <link href="http://allthingsThien.com/blog/categories/visa/atom.xml" rel="self"/>
   <link href="http://allthingsThien.com/"/>
   <updated>2014-08-22T15:21:35-05:00</updated>
   <id>http://allthingsThien.com/</id>
