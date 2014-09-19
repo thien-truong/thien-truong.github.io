@@ -3,28 +3,34 @@
   
   
   <url>
-    <loc>http://allthingsThien.com/blog/2014/09/10/things-are-in-motion/</loc>
+    <loc>http://thienscribbles.com/blog/2014/09/19/welcome-to-india/</loc>
+    <lastmod>2014-09-19T08:37:35+05:30</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://thienscribbles.com/blog/2014/09/10/things-are-in-motion/</loc>
     <lastmod>2014-09-10T11:31:50+05:30</lastmod>
     <priority>0.8</priority>
   </url>
   
   <url>
-    <loc>http://allthingsThien.com/blog/2014/08/23/hello-again/</loc>
+    <loc>http://thienscribbles.com/blog/2014/08/23/hello-again/</loc>
     <lastmod>2014-08-23T01:03:20+05:30</lastmod>
     <priority>0.8</priority>
   </url>
   
   
   <url>
-    <loc>http://allthingsThien.com/blog/archives/</loc>
-    <lastmod>2014-09-19T08:22:05+05:30</lastmod>
+    <loc>http://thienscribbles.com/blog/archives/</loc>
+    <lastmod>2014-09-20T02:41:56+05:30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
-    <loc>http://allthingsThien.com/</loc>
-    <lastmod>2014-09-19T08:22:05+05:30</lastmod>
+    <loc>http://thienscribbles.com/</loc>
+    <lastmod>2014-09-20T02:41:56+05:30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>

@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://allthingsThien.com/sitemap.xml 
+Sitemap: http://thienscribbles.com/sitemap.xml 

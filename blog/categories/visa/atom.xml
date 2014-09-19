@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Visa | Scribbles]]></title>
-  <link href="http://allthingsThien.com/blog/categories/visa/atom.xml" rel="self"/>
-  <link href="http://allthingsThien.com/"/>
-  <updated>2014-09-19T08:22:05+05:30</updated>
-  <id>http://allthingsThien.com/</id>
+  <title><![CDATA[Category: Visa | Thien's Scribbles]]></title>
+  <link href="http://thienscribbles.com/blog/categories/visa/atom.xml" rel="self"/>
+  <link href="http://thienscribbles.com/"/>
+  <updated>2014-09-20T02:41:56+05:30</updated>
+  <id>http://thienscribbles.com/</id>
   <author>
     <name><![CDATA[Thien Truong]]></name>
     
@@ -14,19 +14,38 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Welcome to India, Mr. Truong]]></title>
+    <link href="http://thienscribbles.com/blog/2014/09/19/welcome-to-india/"/>
+    <updated>2014-09-19T08:37:35+05:30</updated>
+    <id>http://thienscribbles.com/blog/2014/09/19/welcome-to-india</id>
+    <content type="html"><![CDATA[<p>I crossed all the phalanges I have and my wish came true.  My visa came back 10 days after I sent it in.  Even better, I applied for the 6 months entry visa and they granted my stay until Adam&rsquo;s visa expires &ndash; August 28, 2015.  However, each of my stay cannot exceed 180 days, which will not be a problem since I&rsquo;ll come home for Christmas.</p>
+
+<p>Two days later, after some speedy packing, house cleaning, and last minute errand running, I said goodbye to home and headed to Mumbai.</p>
+
+<p>&ldquo;Mr. Truong&rdquo; &ndash; the sign read when the hotel&rsquo;s cab driver greeted me at Chhatrapati Shivaji International Airport (BOM) last night.  Well, Mr. Truong was all chatty until &ldquo;he&rdquo; realized that the driver did not talk much at all.  He did not smile, mostly just pointed me to the direction needed.  I was not helping the situation when I absolutely forgot to tip him.</p>
+
+<p>Tipping is such a tricky business when traveling to a new country.  When should I tip?  How much is appropriate?  I should have read up on it before I left, but oh well.  Plenty of chances to practice now that I&rsquo;m gonna be here for the next 6 months or so.</p>
+
+<p>The drive from BOM to the hotel was short, about 15 mintues.  The streets were still very active at 9:30 p.m.  Men gathered into countless small groups at all the tiny shops and shags.  Many wandered nonchalantly on the streets.  From what I&rsquo;ve seen, Mumbai seems old and run down &ndash; many slums.  The streets are narrow and somewhat dark.  Most of the lights were from street vendors.</p>
+
+<p>The quiet driver dropped me off at Hotel Kohinoor Continental.  Dinner buffet and breakfast were complimentary.  Since I just had &ldquo;breakfast&rdquo; on the plane, I settled for some water over dinner.  My room was on the 5th floor over looking the streets below.  I stayed up until four in the morning doing homework just to find out that I could not upload my assignement due to the hotel&rsquo;s excruciatingly slow Internet.  After a shower with some very powerful scented shampoo and bar soap, I force myself to nap for a few hours so that I can wake up in time for breakfast not feeling like a cranky zombie.</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Things Are in Motion]]></title>
-    <link href="http://allthingsThien.com/blog/2014/09/10/things-are-in-motion/"/>
+    <link href="http://thienscribbles.com/blog/2014/09/10/things-are-in-motion/"/>
     <updated>2014-09-10T11:31:50+05:30</updated>
-    <id>http://allthingsThien.com/blog/2014/09/10/things-are-in-motion</id>
+    <id>http://thienscribbles.com/blog/2014/09/10/things-are-in-motion</id>
     <content type="html"><![CDATA[<p>After what seemed to be forever, Adam finally got his visa last week and now is on his twenty-hours flight to Mumbai.  His company will send a person with a sign that says &ldquo;Mr. Russell&rdquo; at the airport and take him to his apartment in Pune.  I was relieved to know that he will not have to try to find a cab at 4 in the morning.</p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Hello Again]]></title>
-    <link href="http://allthingsThien.com/blog/2014/08/23/hello-again/"/>
+    <link href="http://thienscribbles.com/blog/2014/08/23/hello-again/"/>
     <updated>2014-08-23T01:03:20+05:30</updated>
-    <id>http://allthingsThien.com/blog/2014/08/23/hello-again</id>
+    <id>http://thienscribbles.com/blog/2014/08/23/hello-again</id>
     <content type="html"><![CDATA[<p>It has been too long since I last had a blog. Typing these first few lines seems rather silly and unfamiliar.</p>
 
 <p>This summer has been a mixture of suspense, rush, and leisure.</p>

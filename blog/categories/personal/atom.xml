@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Personal | Scribbles]]></title>
-  <link href="http://allthingsThien.com/blog/categories/personal/atom.xml" rel="self"/>
-  <link href="http://allthingsThien.com/"/>
-  <updated>2014-09-19T08:22:05+05:30</updated>
-  <id>http://allthingsThien.com/</id>
+  <title><![CDATA[Category: Personal | Thien's Scribbles]]></title>
+  <link href="http://thienscribbles.com/blog/categories/personal/atom.xml" rel="self"/>
+  <link href="http://thienscribbles.com/"/>
+  <updated>2014-09-20T02:41:56+05:30</updated>
+  <id>http://thienscribbles.com/</id>
   <author>
     <name><![CDATA[Thien Truong]]></name>
     
@@ -15,18 +15,18 @@
   
   <entry>
     <title type="html"><![CDATA[Things Are in Motion]]></title>
-    <link href="http://allthingsThien.com/blog/2014/09/10/things-are-in-motion/"/>
+    <link href="http://thienscribbles.com/blog/2014/09/10/things-are-in-motion/"/>
     <updated>2014-09-10T11:31:50+05:30</updated>
-    <id>http://allthingsThien.com/blog/2014/09/10/things-are-in-motion</id>
+    <id>http://thienscribbles.com/blog/2014/09/10/things-are-in-motion</id>
     <content type="html"><![CDATA[<p>After what seemed to be forever, Adam finally got his visa last week and now is on his twenty-hours flight to Mumbai.  His company will send a person with a sign that says &ldquo;Mr. Russell&rdquo; at the airport and take him to his apartment in Pune.  I was relieved to know that he will not have to try to find a cab at 4 in the morning.</p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Hello Again]]></title>
-    <link href="http://allthingsThien.com/blog/2014/08/23/hello-again/"/>
+    <link href="http://thienscribbles.com/blog/2014/08/23/hello-again/"/>
     <updated>2014-08-23T01:03:20+05:30</updated>
-    <id>http://allthingsThien.com/blog/2014/08/23/hello-again</id>
+    <id>http://thienscribbles.com/blog/2014/08/23/hello-again</id>
     <content type="html"><![CDATA[<p>It has been too long since I last had a blog. Typing these first few lines seems rather silly and unfamiliar.</p>
 
 <p>This summer has been a mixture of suspense, rush, and leisure.</p>
