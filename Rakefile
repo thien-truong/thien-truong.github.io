@@ -82,7 +82,7 @@ task :preview do
   puts "Starting to watch source with Jekyll and Compass. Starting Rack on port #{server_port}"
   system "compass compile --css-dir #{source_dir}/stylesheets" unless File.exist?("#{source_dir}/stylesheets/screen.css")
   jekyllPid = Process.spawn({"OCTOPRESS_ENV"=>"preview"}, "jekyll build --watch")
-  compassPid = Process.spawn("bundle exec sass --compass --sourcemap " +
+  compassPid = Process.spawn("bundle exec sass --compass --sourcemap=auto " +
                              "--watch sass/screen.scss:#{public_dir}/stylesheets/screen.css")
   rackupPid = Process.spawn("rackup --port #{server_port}")
 
