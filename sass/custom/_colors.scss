@@ -3,21 +3,22 @@
 // If you need a handy color picker try http://hslpicker.com
 
 $link-color: lighten(#994000, 1);
-$main-bg: #f5fcf2;
+$main-bg: #e4fcf8;
 $page-bg: #fff;
 $header-bg: #004142;
 // OR? $header-bg: #00696b;
-$title-color: #00ffe1;
-$subtitle-color: lighten($header-bg, 58);
-// OR? $subtitle-color: #fff;
+$title-color: #dcec63;
+// OR? $subtitle-color: lighten($header-bg, 58);
+$subtitle-color: #e3d109;
 $text-color: #00696b;
-$nav-bg: #bae7a8;
+$text-color-light: #00696b;
+$nav-bg: #c1f8ef;
 //$nav-bg-front: image-url('noise.png');
 //$nav-bg-back: linear-gradient(lighten($nav-bg, 8), $nav-bg, darken($nav-bg, 11));
-$sidebar-bg: #f5fcf2;
+$sidebar-bg: $main-bg;
 $sidebar-link-color: saturate(#526f9a, 10);
-$sidebar-link-color-hover: darken(#7ab662, 9);
-$footer-bg: #bae7a8;
+$sidebar-link-color-hover: darken(#994000, 9);
+$footer-bg: #c1f8ef;
 //$footer-bg-front: image-url('noise.png');
 //$footer-bg-back: linear-gradient(lighten($footer-bg, 8), $footer-bg, darken($footer-bg, 11));
 

@@ -1,0 +1,18 @@
+.caption-wrapper {
+  @extend .basic-alignment;
+
+  display: inline-block;
+  margin-bottom: 5px;
+
+  .caption-text {
+    text-align: center;
+    font-size: .8em;
+    color: #00696b;
+    display: block;
+  }
+}
+
+.caption.center {
+  margin-bottom: 0.5em;
+}
+

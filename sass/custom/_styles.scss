@@ -10,3 +10,31 @@
     font-size: 1.7em;
   }
 }
+
+body > header {
+  background-image: url("https://lh4.googleusercontent.com/-cPD1kMJuIMc/VDd3DZ7BJNI/AAAAAAAADgU/IX04nuVfpoI/w1916-h554-no/scribbles-header.jpg");
+}
+
+body > nav {
+  ul {
+    a { @include link-colors($text-color, $link-color-hover, $visited: $text-color); 
+    }
+  }
+}
+
+body > footer {
+  a { @include link-colors($text-color, $link-color-hover, $visited: $text-color); 
+  }
+}
+
+article {
+  figure {
+    img {
+      @include shadow-box(0, none, 0);
+    }
+  }
+  img {
+    @include shadow-box(0, none, 0);
+  }
+}
+
