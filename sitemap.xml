@@ -3,6 +3,14 @@
   
   
   <url>
+    <loc>http://thienscribbles.com/blog/2014/10/17/scribbles/</loc>
+    
+    <lastmod>2014-10-17T12:14:48+05:30</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
     <loc>http://thienscribbles.com/blog/2014/10/10/sinhagad-fort/</loc>
     
     <lastmod>2014-10-10T16:22:57+05:30</lastmod>
@@ -61,14 +69,14 @@
   
   <url>
     <loc>http://thienscribbles.com/blog/archives/</loc>
-    <lastmod>2014-10-11T17:03:36+05:30</lastmod>
+    <lastmod>2014-10-17T17:22:15+05:30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://thienscribbles.com/</loc>
-    <lastmod>2014-10-11T17:03:36+05:30</lastmod>
+    <lastmod>2014-10-17T17:22:15+05:30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
