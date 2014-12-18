@@ -32,7 +32,7 @@ categories: [Pune, India]
 
 {% imgcap https://lh4.googleusercontent.com/-yB1lR7BgVEU/VEYwsFsng4I/AAAAAAAADog/v-Dz0JYy7W0/w1342-h1006-no/20141021PuneStreetView06.JPG Washing and drying clothes, rags, mats... on the Mula Mutha River %}
 
-{% imgcap https://lh3.googleusercontent.com/-CAB03X2qC3A/VEYws6OrkTI/AAAAAAAADrw/RdMZu5XN_LE/w1342-h1006-no/20141021PuneStreetView07.JPG A slum on the river bank %}
+{% imgcap https://lh4.googleusercontent.com/-keMCMDzp3n0/VI_7dPH5R_I/AAAAAAAAFNc/mL3kTBfRkuw/w1478-h1094-no/20141021PuneStreetView07.jpg A slum on the river bank %}
 
 {% imgcap https://lh4.googleusercontent.com/-07EcFIwhqhg/VEYwtfuGAII/AAAAAAAADo0/5eGuTjQ4Kak/w1342-h1006-no/20141021PuneStreetView08.JPG Potteries and plants for sale %}
 

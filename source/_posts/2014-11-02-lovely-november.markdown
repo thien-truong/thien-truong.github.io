@@ -42,7 +42,7 @@ November in India does not come with the turning of the leaves but the gorgeous 
 
 {% imgcap https://lh4.googleusercontent.com/-auKHh-hkuXw/VFaLrs4kQQI/AAAAAAAADvM/nm_knmpOKes/w1458-h1094-no/20141102SundayExcursion14.jpg Vroom vroom - where is the hot owner? %}
 
-{% imgcap https://lh4.googleusercontent.com/-D0PLLgxu1dA/VFaNceTBCXI/AAAAAAAADvY/5ZgX15KgGgI/w1458-h1094-no/20141102SundayExcursion15.jpg A pig cow %}
+{% imgcap https://lh4.googleusercontent.com/-D0PLLgxu1dA/VFaNceTBCXI/AAAAAAAADvY/5ZgX15KgGgI/w1458-h1094-no/20141102SundayExcursion15.jpg I think his dad is a cow and his mom is a pig %}
 
 {% imgcap https://lh5.googleusercontent.com/-lL1JyP7eOPc/VFaWZJyFfzI/AAAAAAAADv0/t8S5yzKaDug/w1458-h1094-no/20141102SundayExcursion16.jpg I heard that these exotic skirts do not have strings around the waist - Imagine the posible ;) %}
 
