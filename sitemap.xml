@@ -3,6 +3,14 @@
   
   
   <url>
+    <loc>http://thienscribbles.com/blog/2015/01/08/where-did-my-two-weeks-go/</loc>
+    
+    <lastmod>2015-01-08T16:35:14+05:30</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
     <loc>http://thienscribbles.com/blog/2014/12/22/a-ride-with-the-mafia/</loc>
     
     <lastmod>2014-12-22T23:10:22+05:30</lastmod>
@@ -149,14 +157,14 @@
   
   <url>
     <loc>http://thienscribbles.com/blog/archives/</loc>
-    <lastmod>2015-01-06T18:16:35+05:30</lastmod>
+    <lastmod>2015-01-10T16:15:34+05:30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://thienscribbles.com/</loc>
-    <lastmod>2015-01-06T18:16:35+05:30</lastmod>
+    <lastmod>2015-01-10T16:15:34+05:30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
