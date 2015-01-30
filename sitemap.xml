@@ -3,6 +3,14 @@
   
   
   <url>
+    <loc>http://thienscribbles.com/blog/2015/01/31/scribbles/</loc>
+    
+    <lastmod>2015-01-31T00:10:37+05:30</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
     <loc>http://thienscribbles.com/blog/2015/01/26/happy-republic-day/</loc>
     
     <lastmod>2015-01-26T11:34:46+05:30</lastmod>
@@ -181,14 +189,14 @@
   
   <url>
     <loc>http://thienscribbles.com/blog/archives/</loc>
-    <lastmod>2015-01-26T13:30:00+05:30</lastmod>
+    <lastmod>2015-01-31T01:23:26+05:30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://thienscribbles.com/</loc>
-    <lastmod>2015-01-26T13:30:00+05:30</lastmod>
+    <lastmod>2015-01-31T01:23:26+05:30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
