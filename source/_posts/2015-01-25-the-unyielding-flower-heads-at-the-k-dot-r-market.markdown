@@ -1,0 +1,54 @@
+---
+layout: post
+title: "The unyielding flowerheads at K.R. market"
+date: 2015-01-25 02:42:25 +0530
+comments: true
+categories: [India, Bangalore, open market] 
+---
+During our break back home in December, we had to regretfully tell our food-lover friend Alan that we had not been to any open markets yet.   He didn’t give us bullet eyes, but we secretly felt shameful.   How could we stay in India for 3 months and not take our lazy bones out to an open market? Thus when we planned for our trip to Bangalore, we knew we must visit Krishna Rajendra Market – the biggest market in the city.
+
+This market is usually busiest in the early morning; but by the time we got there at noon, the crowdedness did not seem to subside much.  We walked around aimlessly, almost suffocating with the vibrancy and aliveness.  A myriad of tiny shops fill both sides of the many narrow streets leading to the market center. Countless people invade the street pavements to sell fruits, vegetables, flowers, clothes, snacks, and almost everything imaginable. 
+
+At the center is a large complex with a glorious flower market on the underground level.  Since the people of India seem to favor garlands more than whole flower stems, heaps of flower heads are piled on the grounds, in baskets, and on low concrete stands. As I walked by, a gentleman charmingly offered me a rose head.  I wore it in my hair the whole day.
+
+Our excitement and curiosity were undoubtedly visible. I was really glad that no one seemed to be bothered when I took pictures of their merchandise.  Actually, everybody was rather friendly.  As we stopped to study the many unfamiliar items at various vendors, quite a few people asked where we were from.  A fruit seller cut up a water apple for us to try even though we told him that we didn’t want to buy after inquiring about the price.  A man who sells dry goods waved me over and put a mark of red turmeric powder (a kumkuma) on my forehead.  He said gently:  “for Indian women.” 
+
+The kindness of his words however comforting was making me uneasy.  Sure, I was wearing a kurta... I might even pass as an Indian woman for a day, but I’m still just a stranger.  I saw the hustle bustle, the colors, the chaos; and I was amused.  I enjoyed the stroll knowing that I didn’t have to live it the next day or the day after.  
+
+This market is the only mean to make a living for many, but what a torment! Amidst the raw beauty lay the stench, the pollution, the lack of drainage systems, the overpopulation, and the lack of governmental support.  People lead hard lives here.  I came and I went.  Where can they go?  How long can these stemless flowers survive?
+
+{% imgcap https://lh3.googleusercontent.com/-kpmzcahuTZA/VMQQLB3ByZI/AAAAAAAAFgg/hxKmdRhhtXU/w1458-h1094-no/IMG_1260.JPG %}
+
+{% imgcap https://lh4.googleusercontent.com/-Wk1KpgK9tLM/VMQQK9sbw-I/AAAAAAAAFgY/__mjRw3tbXU/w1458-h1094-no/IMG_1273.JPG %}
+
+{% imgcap https://lh6.googleusercontent.com/-QUtYlO48FT4/VMQQKcZ3xPI/AAAAAAAAFgQ/iRqHKvbl-cM/w1458-h1094-no/IMG_1275.JPG %}
+
+{% imgcap https://lh3.googleusercontent.com/-SnZIIzaPdtY/VMQQR2c-exI/AAAAAAAAFgo/JwtKZdB0lPE/w1458-h1094-no/IMG_1284.JPG %}
+
+{% imgcap https://lh3.googleusercontent.com/-M_ZQsQoL7hU/VMQQXsuf9UI/AAAAAAAAFg0/16CdR749Esg/w1458-h1094-no/IMG_1298.JPG %}
+
+{% imgcap https://lh3.googleusercontent.com/-a9du_QBus_k/VMQQYApRi9I/AAAAAAAAFg4/zdNnU_f3cmI/w1458-h1094-no/IMG_1300.JPG %}
+
+{% imgcap https://lh3.googleusercontent.com/-fqj8BSiSVBk/VMQQs18KKqI/AAAAAAAAFh8/o26gS0h6PK0/w1458-h1094-no/IMG_1339.JPG %}
+
+{% imgcap https://lh3.googleusercontent.com/-fjNJluezdV0/VMQQtHWxLKI/AAAAAAAAFiA/fwWm_Dk-ckM/w1458-h1094-no/IMG_1341.JPG %}
+
+{% imgcap https://lh6.googleusercontent.com/-3IzvW6dCBv8/VMQQZanzmVI/AAAAAAAAFhA/1ZZYq1HWXeI/w1458-h1094-no/IMG_1314.JPG %}
+
+{% imgcap https://lh6.googleusercontent.com/-2DhoeRF6v6E/VMQQneOPB4I/AAAAAAAAFhg/vqmB4VO_fLc/w1458-h1094-no/IMG_1337.JPG %}
+
+{% imgcap https://lh5.googleusercontent.com/-3U_oCYTf8IA/VMQQhXrCTRI/AAAAAAAAFhY/REYnye1kFmQ/w1458-h1094-no/IMG_1325.JPG %}
+
+{% imgcap https://lh4.googleusercontent.com/-jaDc9xVY1mI/VMQQuKUm9-I/AAAAAAAAFiI/7Cna2IgEjo4/w1458-h1094-no/IMG_1350.JPG %}
+
+{% imgcap https://lh3.googleusercontent.com/-dpZMD3ldJg4/VMQQhJf1LsI/AAAAAAAAFhQ/LdowyHvF0Xk/w1458-h1094-no/IMG_1323.JPG %}
+
+{% imgcap https://lh3.googleusercontent.com/-fgy1-j4iBrg/VMQQ2yCSbjI/AAAAAAAAFiY/HiOcZXAE26E/w1458-h1094-no/IMG_1358.JPG %}
+
+{% imgcap https://lh6.googleusercontent.com/-E-0lpydj8S8/VMQQ3ct3BdI/AAAAAAAAFic/84Ns_vlVcBo/w1458-h1094-no/IMG_1355.JPG %}
+
+{% imgcap https://lh3.googleusercontent.com/-Doqokgagx8Q/VMQQ7J79JeI/AAAAAAAAFik/MLPDTXgBgRg/w1458-h1094-no/IMG_1359.JPG %}
+
+{% imgcap https://lh3.googleusercontent.com/-rFymtBcu-lQ/VMQQ-HOFwxI/AAAAAAAAFis/MFKROLttcGI/w1458-h1094-no/IMG_1360.JPG %}
+
+{% imgcap https://lh5.googleusercontent.com/-O9Wg69Ne6NM/VMQQhcU2JuI/AAAAAAAAFhU/gOjghVUb25I/w1458-h1094-no/IMG_1333.JPG Rocking my kurta %}

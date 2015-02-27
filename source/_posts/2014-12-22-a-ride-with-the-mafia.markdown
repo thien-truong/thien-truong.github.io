@@ -1,0 +1,25 @@
+---
+layout: post
+title: "A ride with the Mafia"
+date: 2014-12-22 11:40:22 -0600
+comments: true
+categories: [Hampi, Thoughtworkers, India, playing mafia] 
+---
+By the time I made my way to the guesthouse's front porch, the owner, Sharmilla, was telling the rest of the group the bizarre story of how her dog survived an attack from a full grown leopard not long ago.  When I encountered him the next morning, I could still see the injuries around his neck.  He stood to my shoulder, and would be much taller than me if standing up on two legs.  For being capable of fighting off a leopard, he surprisingly seemed quiet and gentle.
+
+Exhausted and sweaty from our day trip, Adam and I sneaked away for a shower when everyone else was still engulfed in Sharmilla's stories.  Since the shared bathroom did not have any hangers, we had to take turn holding each other's clothes while the other cringed convulsively under the icy cold water.  Now looking back, to have your already not-too-well-endowed body parts shrunk even further seems rather funny - a much better feeling than the agony I felt when the first ray of water hit my body.
+
+Adam and I were ecstatic when a group member asked if we would like to have some liquor with the evening meal since a few others were in the mood for a little relaxant.  Of course we grinned like fools and nodded.  The cheap vodka mixed with fresh lime, sugar, and soda water tasted like heaven, especially when you got to share it with friends who do not normally drink.  I was feeling good when the light at the guesthouse's restaurant started to dim at around 10:00.  One minute I was lounging lazily against Adam then the next there were shouting for us to get out as fast as we can.  What the hell?  All I managed was a glimpse of a flashing light before getting shoved unceremoniously barefooted with the others toward the back of the restaurant.  My instant two cents: What about my shoes? Are we being arrested because other visitors are doing weeds?  The excitement didn't last long; we were let back into the restaurant after five minutes.  Turned out the police came to make sure that the restaurant closes down at 10:00.  How nuts!
+
+
+Afterward, our group reconvened and voted to skip the sightseeing of some places two hours away from Hampi the next day. The morning was much more relaxing since we did not have a schedule except to leave at noon.  Many slept in because they stayed up late the night before, chatting and singing (this information came from the others since Adam and I shamelessly put our old bones to sleep at midnight).  A few rented motorbikes for a ride.  Priti and I ran into each other at the restaurant and decided for a walk along the fields. We later found our way to the top of the stacking stones overlooking our guesthouse.  I laughed my head off when she told me to pretend to sleep on a rock for a picture.
+
+For [Thoughtworkers](http://www.thoughtworks.com/about-us) Pune, no trips could be called successful until the battles to the death between the mafias and the villagers are settled.  If you think they are intense at work, you would shiver at the blood lust in their eyes when playing this [game](http://ww2.kqed.org/pop/2013/12/17/how-to-play-mafia-an-in-depth-guide-to-the-perfect-holiday-game/). On being assigned their roles, each automatically turns into a lion mixed with a fox - cunning, fierce, and just damn scary.  When these guys try to convince others that you are a mafia, you will feel like a piece of meat that is being chewed, then spit out, then played with, then chewed again.  Word of advice, if you have a weak heart but are gung-ho for the thrills, bring extra pants!  It's tricky business when sharing a ride with the mafia.  With that in mind, I quit after the forth game and curled into a sleeping ball the rest of the way home.
+
+{% imgcap https://lh3.googleusercontent.com/-WE-CtAiUd-I/VKvHFzUPfvI/AAAAAAAAFZI/_JBJVUrjgJ8/w1458-h1094-no/IMG_1093.JPG Trying not to let my head fall off from laughing %}
+
+{% imgcap https://lh3.googleusercontent.com/-YIylh-TYybU/VKvHDfutjkI/AAAAAAAAFZA/zP0xdI4HWvc/w1458-h1094-no/IMG_1109.JPG Priti and Thien - conquerors of the rocks %}
+
+{% imgcap https://lh4.googleusercontent.com/-jcp-X96ROjg/VKvG_kbZPMI/AAAAAAAAFY4/bHMv_mnLEMw/w1458-h1094-no/IMG_0859.JPG Don't let these smiley faces fool you, they will mangle you happily when lost in the frenzy of playing mafia %}
+
+
