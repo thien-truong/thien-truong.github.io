@@ -13,5 +13,3 @@ At our apartment complex, the music has been playing very loudly through an ampl
 
 Oh well, when in India, enjoy the music eh???  Happy Republic Day!
 
-{% imgcap https://lh3.googleusercontent.com/-JVgRSogJ0lo/VMXq5dlWTRI/AAAAAAAAFkU/gBkTb65LvJs/w810-h1094-no/IMG_20150126_105637.jpg Scream, children! Scream! %}
-
