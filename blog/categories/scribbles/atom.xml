@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Scribbles | Scribbles]]></title>
   <link href="http://thienscribbles.com/blog/categories/scribbles/atom.xml" rel="self"/>
   <link href="http://thienscribbles.com/"/>
-  <updated>2015-03-04T15:29:14+02:00</updated>
+  <updated>2015-03-10T20:36:44+02:00</updated>
   <id>http://thienscribbles.com/</id>
   <author>
     <name><![CDATA[Thien Truong]]></name>
@@ -67,7 +67,7 @@
 </ul>
 
 
-<p><figure class='caption-wrapper' style='width:px;'><img class='caption center' src='https://lh5.googleusercontent.com/-NibyAjDEH9o/VIFL-GeRnOI/AAAAAAAAE74/LGWkz2wmvos/w1434-h1062-no/20141205Scribbles.jpg">https://lh5.googleusercontent.com/-NibyAjDEH9o/VIFL-GeRnOI/AAAAAAAAE74/LGWkz2wmvos/w1434-h1062-no/20141205Scribbles.jpg</a>&#8217; width=&#8221; height=&#8221; title=&#8217;India has the most delicious bananas.  This is our favorite place to get them yummies (2 blocks away from our apartment).&#8217;><figcaption class='caption-text'>India has the most delicious bananas.  This is our favorite place to get them yummies (2 blocks away from our apartment).</figcaption></figure></p>
+<p>{% imgcap <a href="https://lh5.googleusercontent.com/-NibyAjDEH9o/VIFL-GeRnOI/AAAAAAAAE74/LGWkz2wmvos/w1434-h1062-no/20141205Scribbles.jpg">https://lh5.googleusercontent.com/-NibyAjDEH9o/VIFL-GeRnOI/AAAAAAAAE74/LGWkz2wmvos/w1434-h1062-no/20141205Scribbles.jpg</a> India has the most delicious bananas.  This is our favorite place to get them yummies (2 blocks away from our apartment). %}</p>
 ]]></content>
   </entry>
   
@@ -102,7 +102,7 @@
 </ul>
 
 
-<p><figure class='caption-wrapper' style='width:px;'><img class='caption center' src='https://lh5.googleusercontent.com/-WpcKp7l6LVc/VEDvXwwRXyI/AAAAAAAADl4/4vz4p7WkuEM/w1330-h998-no/20141017Scribbles.jpg">https://lh5.googleusercontent.com/-WpcKp7l6LVc/VEDvXwwRXyI/AAAAAAAADl4/4vz4p7WkuEM/w1330-h998-no/20141017Scribbles.jpg</a>&#8217; width=&#8221; height=&#8221; title=&#8217;Adam is getting some dabelies from our favorite stall, right accoss from our apartment complex&#8217;><figcaption class='caption-text'>Adam is getting some dabelies from our favorite stall, right accoss from our apartment complex</figcaption></figure></p>
+<p>{% imgcap <a href="https://lh5.googleusercontent.com/-WpcKp7l6LVc/VEDvXwwRXyI/AAAAAAAADl4/4vz4p7WkuEM/w1330-h998-no/20141017Scribbles.jpg">https://lh5.googleusercontent.com/-WpcKp7l6LVc/VEDvXwwRXyI/AAAAAAAADl4/4vz4p7WkuEM/w1330-h998-no/20141017Scribbles.jpg</a> Adam is getting some dabelies from our favorite stall, right accoss from our apartment complex %}</p>
 ]]></content>
   </entry>
   
